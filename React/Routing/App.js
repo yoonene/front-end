@@ -23,7 +23,7 @@ function App() {
     <BrowserRouter>
       <div className="App">
         <NavBar />
-        {/* <h1>음악 컨퍼런스</h1> */}
+        {/* react-router-dom v6 이전 버전 */}
         {/* <ul class="navbar__menu">
           <li><NavLink exact to="/about">About</NavLink></li>
           <li><NavLink exact to="/people">People</NavLink></li>
